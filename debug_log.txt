@@ -1,0 +1,307 @@
+⏬ Download market...
+⏬ Download saham...
+✅ BBCA.JK fitur OK (2378 baris)
+✅ BBRI.JK fitur OK (2380 baris)
+✅ BMRI.JK fitur OK (2379 baris)
+✅ BBNI.JK fitur OK (2380 baris)
+✅ BRIS.JK fitur OK (1783 baris)
+✅ BFIN.JK fitur OK (2212 baris)
+✅ BTPS.JK fitur OK (1783 baris)
+✅ AGRO.JK fitur OK (2366 baris)
+✅ BBKP.JK fitur OK (2377 baris)
+✅ BJBR.JK fitur OK (2380 baris)
+✅ BJTM.JK fitur OK (2379 baris)
+✅ PNBN.JK fitur OK (2391 baris)
+✅ NISP.JK fitur OK (2139 baris)
+✅ MEGA.JK fitur OK (1815 baris)
+✅ ARTO.JK fitur OK (2097 baris)
+✅ AMAR.JK fitur OK (1383 baris)
+✅ BBYB.JK fitur OK (2341 baris)
+✅ BCAP.JK fitur OK (1966 baris)
+✅ AMMN.JK fitur OK (532 baris)
+✅ ADMR.JK fitur OK (891 baris)
+✅ ADRO.JK fitur OK (2378 baris)
+✅ PTBA.JK fitur OK (2376 baris)
+✅ BYAN.JK fitur OK (1859 baris)
+✅ HRUM.JK fitur OK (2379 baris)
+✅ MDKA.JK fitur OK (2237 baris)
+✅ MEDC.JK fitur OK (2378 baris)
+✅ PGAS.JK fitur OK (2379 baris)
+✅ ANTM.JK fitur OK (2391 baris)
+✅ TINS.JK fitur OK (2368 baris)
+✅ INCO.JK fitur OK (2378 baris)
+✅ BREN.JK fitur OK (465 baris)
+✅ MBMA.JK fitur OK (578 baris)
+✅ BRMS.JK fitur OK (2371 baris)
+✅ ELSA.JK fitur OK (2378 baris)
+✅ ENRG.JK fitur OK (2306 baris)
+✅ ITMG.JK fitur OK (2390 baris)
+✅ ABMM.JK fitur OK (1814 baris)
+✅ ESSA.JK fitur OK (2226 baris)
+✅ CUAN.JK fitur OK (579 baris)
+✅ WSKT.JK fitur OK (1774 baris)
+✅ WIKA.JK fitur OK (2130 baris)
+✅ PTPP.JK fitur OK (2379 baris)
+✅ ADHI.JK fitur OK (2374 baris)
+✅ SMGR.JK fitur OK (2379 baris)
+✅ INTP.JK fitur OK (2377 baris)
+✅ WTON.JK fitur OK (2378 baris)
+✅ WIKA.JK fitur OK (2130 baris)
+✅ JSMR.JK fitur OK (2378 baris)
+✅ TOTL.JK fitur OK (2378 baris)
+✅ PPRE.JK fitur OK (1896 baris)
+✅ WSBP.JK fitur OK (1894 baris)
+✅ CTRA.JK fitur OK (2376 baris)
+✅ BSDE.JK fitur OK (2379 baris)
+✅ PWON.JK fitur OK (2377 baris)
+✅ ASRI.JK fitur OK (2378 baris)
+✅ SMRA.JK fitur OK (2379 baris)
+✅ LPKR.JK fitur OK (2379 baris)
+✅ MDLN.JK fitur OK (2070 baris)
+✅ KIJA.JK fitur OK (2370 baris)
+✅ BEST.JK fitur OK (2378 baris)
+✅ DILD.JK fitur OK (2376 baris)
+✅ TLKM.JK fitur OK (2378 baris)
+✅ ISAT.JK fitur OK (2375 baris)
+✅ EXCL.JK fitur OK (2380 baris)
+✅ MTEL.JK fitur OK (925 baris)
+✅ TOWR.JK fitur OK (2308 baris)
+✅ BUKA.JK fitur OK (997 baris)
+✅ GOTO.JK fitur OK (829 baris)
+✅ DCII.JK fitur OK (937 baris)
+✅ DNET.JK fitur OK (2314 baris)
+✅ EMTK.JK fitur OK (1989 baris)
+✅ MCAS.JK fitur OK (1904 baris)
+✅ ENVY.JK fitur OK (295 baris)
+✅ TFAS.JK fitur OK (1401 baris)
+✅ HEAL.JK fitur OK (1779 baris)
+✅ HATM.JK fitur OK (763 baris)
+✅ SATU.JK fitur OK (1542 baris)
+✅ ASII.JK fitur OK (2378 baris)
+✅ UNTR.JK fitur OK (2378 baris)
+✅ IMAS.JK fitur OK (2344 baris)
+✅ AUTO.JK fitur OK (2376 baris)
+✅ SMSM.JK fitur OK (2378 baris)
+✅ GJTL.JK fitur OK (2376 baris)
+✅ INDS.JK fitur OK (2220 baris)
+✅ INTA.JK fitur OK (1964 baris)
+✅ KRAS.JK fitur OK (2369 baris)
+✅ SCCO.JK fitur OK (2134 baris)
+✅ KDSI.JK fitur OK (2137 baris)
+✅ DPNS.JK fitur OK (1835 baris)
+✅ BRPT.JK fitur OK (2372 baris)
+✅ CHIP.JK fitur OK (617 baris)
+✅ POLY.JK fitur OK (2247 baris)
+✅ MTDL.JK fitur OK (2364 baris)
+✅ META.JK fitur OK (1891 baris)
+✅ UNVR.JK fitur OK (2377 baris)
+✅ ICBP.JK fitur OK (2379 baris)
+✅ INDF.JK fitur OK (2391 baris)
+✅ MYOR.JK fitur OK (2369 baris)
+✅ SIDO.JK fitur OK (2380 baris)
+✅ HMSP.JK fitur OK (2391 baris)
+✅ GGRM.JK fitur OK (2378 baris)
+✅ DLTA.JK fitur OK (2261 baris)
+✅ TCID.JK fitur OK (1687 baris)
+✅ ROTI.JK fitur OK (2379 baris)
+✅ CLEO.JK fitur OK (2021 baris)
+✅ ULTJ.JK fitur OK (2365 baris)
+✅ PRDA.JK fitur OK (2067 baris)
+✅ KAEF.JK fitur OK (2368 baris)
+✅ KLBF.JK fitur OK (2379 baris)
+✅ AMRT.JK fitur OK (2364 baris)
+✅ ACES.JK fitur OK (2378 baris)
+✅ MAPI.JK fitur OK (2378 baris)
+✅ RALS.JK fitur OK (2379 baris)
+✅ TELE.JK fitur OK (1460 baris)
+✅ CSAP.JK fitur OK (2280 baris)
+✅ DIVA.JK fitur OK (1646 baris)
+✅ ASSA.JK fitur OK (2379 baris)
+✅ TMAS.JK fitur OK (2130 baris)
+✅ SMDR.JK fitur OK (2369 baris)
+✅ GIAA.JK fitur OK (1996 baris)
+✅ IPCM.JK fitur OK (1862 baris)
+✅ WINS.JK fitur OK (2345 baris)
+✅ SAFE.JK fitur OK (1979 baris)
+✅ HATM.JK fitur OK (763 baris)
+✅ SMGR.JK fitur OK (2379 baris)
+✅ INTP.JK fitur OK (2377 baris)
+✅ SMCB.JK fitur OK (2188 baris)
+✅ WTON.JK fitur OK (2378 baris)
+✅ WSBP.JK fitur OK (1894 baris)
+✅ HEAL.JK fitur OK (1779 baris)
+✅ MIKA.JK fitur OK (2378 baris)
+✅ PRDA.JK fitur OK (2067 baris)
+✅ SILO.JK fitur OK (2378 baris)
+✅ KAEF.JK fitur OK (2368 baris)
+✅ INAF.JK fitur OK (2052 baris)
+✅ DVLA.JK fitur OK (2115 baris)
+✅ TSPC.JK fitur OK (2376 baris)
+✅ MCAS.JK fitur OK (1904 baris)
+✅ DIVA.JK fitur OK (1646 baris)
+✅ MTDL.JK fitur OK (2364 baris)
+✅ EDGE.JK fitur OK (1032 baris)
+✅ PTSN.JK fitur OK (2325 baris)
+✅ KIOS.JK fitur OK (1781 baris)
+✅ LPKR.JK fitur OK (2379 baris)
+✅ CTRA.JK fitur OK (2376 baris)
+✅ EMTK.JK fitur OK (1989 baris)
+✅ BIPI.JK fitur OK (2314 baris)
+✅ MDIA.JK fitur OK (1848 baris)
+✅ MNCN.JK fitur OK (2377 baris)
+✅ SCMA.JK fitur OK (2391 baris)
+✅ BMTR.JK fitur OK (2375 baris)
+✅ VIVA.JK fitur OK (2151 baris)
+✅ AKRA.JK fitur OK (2378 baris)
+=== MODEL REPORT ===
+              precision    recall  f1-score   support
+
+           0     0.9027    0.9993    0.9485     57145
+           1     0.7917    0.0241    0.0468      6309
+
+    accuracy                         0.9023     63454
+   macro avg     0.8472    0.5117    0.4976     63454
+weighted avg     0.8916    0.9023    0.8589     63454
+
+
+=== HASIL PREDIKSI ===
+ABMM.JK  | ProbTop=8.43% | RetPred=1.35%
+ACES.JK  | ProbTop=6.82% | RetPred=0.45%
+ADHI.JK  | ProbTop=7.22% | RetPred=0.76%
+ADMR.JK  | ProbTop=17.58% | RetPred=-1.08%
+ADRO.JK  | ProbTop=14.62% | RetPred=2.92%
+AGRO.JK  | ProbTop=6.23% | RetPred=-0.86%
+AKRA.JK  | ProbTop=9.28% | RetPred=2.46%
+AMAR.JK  | ProbTop=8.18% | RetPred=-0.87%
+AMMN.JK  | ProbTop=14.15% | RetPred=-1.06%
+AMRT.JK  | ProbTop=10.49% | RetPred=-4.23%
+ANTM.JK  | ProbTop=7.94% | RetPred=0.32%
+ARTO.JK  | ProbTop=13.46% | RetPred=0.91%
+ASII.JK  | ProbTop=16.44% | RetPred=3.25%
+ASRI.JK  | ProbTop=5.99% | RetPred=2.47%
+ASSA.JK  | ProbTop=19.70% | RetPred=5.16%
+AUTO.JK  | ProbTop=10.42% | RetPred=3.92%
+BBCA.JK  | ProbTop=9.47% | RetPred=1.47%
+BBKP.JK  | ProbTop=7.74% | RetPred=-1.47%
+BBNI.JK  | ProbTop=9.05% | RetPred=1.14%
+BBRI.JK  | ProbTop=9.63% | RetPred=1.51%
+BBYB.JK  | ProbTop=12.44% | RetPred=3.61%
+BCAP.JK  | ProbTop=5.32% | RetPred=0.00%
+BEST.JK  | ProbTop=6.58% | RetPred=3.74%
+BFIN.JK  | ProbTop=6.87% | RetPred=-1.24%
+BIPI.JK  | ProbTop=9.97% | RetPred=0.00%
+BJBR.JK  | ProbTop=6.70% | RetPred=0.62%
+BJTM.JK  | ProbTop=8.42% | RetPred=0.00%
+BMRI.JK  | ProbTop=10.47% | RetPred=0.85%
+BMTR.JK  | ProbTop=2.96% | RetPred=-0.69%
+BREN.JK  | ProbTop=10.47% | RetPred=6.92%
+BRIS.JK  | ProbTop=6.11% | RetPred=-0.78%
+BRMS.JK  | ProbTop=20.52% | RetPred=5.98%
+BRPT.JK  | ProbTop=26.70% | RetPred=6.38%
+BSDE.JK  | ProbTop=9.59% | RetPred=-2.04%
+BTPS.JK  | ProbTop=10.00% | RetPred=0.73%
+BUKA.JK  | ProbTop=4.47% | RetPred=0.60%
+BYAN.JK  | ProbTop=3.72% | RetPred=0.00%
+CHIP.JK  | ProbTop=11.11% | RetPred=1.54%
+CLEO.JK  | ProbTop=6.92% | RetPred=-1.85%
+CSAP.JK  | ProbTop=11.15% | RetPred=-1.23%
+CTRA.JK  | ProbTop=5.91% | RetPred=1.13%
+CUAN.JK  | ProbTop=17.36% | RetPred=3.98%
+DCII.JK  | ProbTop=8.00% | RetPred=0.10%
+DILD.JK  | ProbTop=5.12% | RetPred=-2.24%
+DIVA.JK  | ProbTop=15.08% | RetPred=0.00%
+DLTA.JK  | ProbTop=7.66% | RetPred=1.46%
+DNET.JK  | ProbTop=4.42% | RetPred=-1.10%
+DPNS.JK  | ProbTop=6.83% | RetPred=1.31%
+DVLA.JK  | ProbTop=6.60% | RetPred=-0.30%
+EDGE.JK  | ProbTop=6.67% | RetPred=-1.35%
+ELSA.JK  | ProbTop=5.71% | RetPred=2.94%
+EMTK.JK  | ProbTop=13.74% | RetPred=1.69%
+ENRG.JK  | ProbTop=18.37% | RetPred=7.27%
+ENVY.JK  | ProbTop=3.77% | RetPred=0.00%
+ESSA.JK  | ProbTop=6.71% | RetPred=2.44%
+EXCL.JK  | ProbTop=13.43% | RetPred=3.07%
+GGRM.JK  | ProbTop=33.84% | RetPred=-3.47%
+GIAA.JK  | ProbTop=14.27% | RetPred=1.74%
+GJTL.JK  | ProbTop=9.66% | RetPred=0.48%
+GOTO.JK  | ProbTop=9.36% | RetPred=-1.67%
+HATM.JK  | ProbTop=9.88% | RetPred=0.00%
+HEAL.JK  | ProbTop=5.47% | RetPred=0.33%
+HMSP.JK  | ProbTop=15.04% | RetPred=-0.57%
+HRUM.JK  | ProbTop=9.20% | RetPred=-5.13%
+ICBP.JK  | ProbTop=6.74% | RetPred=-2.30%
+IMAS.JK  | ProbTop=6.16% | RetPred=1.30%
+INAF.JK  | ProbTop=16.13% | RetPred=0.00%
+INCO.JK  | ProbTop=10.37% | RetPred=-4.21%
+INDF.JK  | ProbTop=8.78% | RetPred=-2.70%
+INDS.JK  | ProbTop=2.21% | RetPred=0.00%
+INTA.JK  | ProbTop=10.13% | RetPred=-4.76%
+INTP.JK  | ProbTop=6.17% | RetPred=2.40%
+IPCM.JK  | ProbTop=9.30% | RetPred=1.23%
+ISAT.JK  | ProbTop=9.74% | RetPred=2.12%
+ITMG.JK  | ProbTop=5.16% | RetPred=-2.02%
+JSMR.JK  | ProbTop=17.50% | RetPred=0.28%
+KAEF.JK  | ProbTop=7.84% | RetPred=-0.83%
+KDSI.JK  | ProbTop=4.90% | RetPred=0.86%
+KIJA.JK  | ProbTop=12.30% | RetPred=0.52%
+KIOS.JK  | ProbTop=18.33% | RetPred=22.54%
+KLBF.JK  | ProbTop=12.50% | RetPred=-1.96%
+KRAS.JK  | ProbTop=9.76% | RetPred=-1.20%
+LPKR.JK  | ProbTop=6.55% | RetPred=-1.12%
+MAPI.JK  | ProbTop=10.74% | RetPred=1.55%
+MBMA.JK  | ProbTop=13.55% | RetPred=1.59%
+MCAS.JK  | ProbTop=6.36% | RetPred=-1.83%
+MDIA.JK  | ProbTop=5.95% | RetPred=-2.94%
+MDKA.JK  | ProbTop=12.96% | RetPred=-0.82%
+MDLN.JK  | ProbTop=12.97% | RetPred=-3.39%
+MEDC.JK  | ProbTop=10.32% | RetPred=0.75%
+MEGA.JK  | ProbTop=4.43% | RetPred=0.61%
+META.JK  | ProbTop=8.72% | RetPred=0.00%
+MIKA.JK  | ProbTop=11.49% | RetPred=1.55%
+MNCN.JK  | ProbTop=4.00% | RetPred=-0.75%
+MTDL.JK  | ProbTop=6.63% | RetPred=0.00%
+MTEL.JK  | ProbTop=6.86% | RetPred=0.00%
+MYOR.JK  | ProbTop=17.83% | RetPred=2.35%
+NISP.JK  | ProbTop=6.11% | RetPred=1.09%
+PGAS.JK  | ProbTop=9.87% | RetPred=0.86%
+PNBN.JK  | ProbTop=5.37% | RetPred=1.46%
+POLY.JK  | ProbTop=34.84% | RetPred=8.33%
+PPRE.JK  | ProbTop=16.52% | RetPred=-2.42%
+PRDA.JK  | ProbTop=6.24% | RetPred=0.00%
+PTBA.JK  | ProbTop=7.55% | RetPred=0.00%
+PTPP.JK  | ProbTop=5.01% | RetPred=-0.52%
+PTSN.JK  | ProbTop=10.06% | RetPred=-0.51%
+PWON.JK  | ProbTop=4.21% | RetPred=2.17%
+RALS.JK  | ProbTop=11.85% | RetPred=0.47%
+ROTI.JK  | ProbTop=2.92% | RetPred=0.63%
+SAFE.JK  | ProbTop=6.19% | RetPred=12.35%
+SATU.JK  | ProbTop=7.21% | RetPred=0.00%
+SCCO.JK  | ProbTop=4.82% | RetPred=0.00%
+SCMA.JK  | ProbTop=13.29% | RetPred=8.88%
+SIDO.JK  | ProbTop=7.31% | RetPred=2.68%
+SILO.JK  | ProbTop=19.15% | RetPred=-2.76%
+SMCB.JK  | ProbTop=2.21% | RetPred=3.33%
+SMDR.JK  | ProbTop=4.75% | RetPred=0.63%
+SMGR.JK  | ProbTop=7.67% | RetPred=1.45%
+SMRA.JK  | ProbTop=4.48% | RetPred=2.04%
+SMSM.JK  | ProbTop=7.71% | RetPred=0.78%
+TCID.JK  | ProbTop=7.53% | RetPred=0.00%
+TELE.JK  | ProbTop=18.05% | RetPred=-10.00%
+TFAS.JK  | ProbTop=15.75% | RetPred=3.23%
+TINS.JK  | ProbTop=17.60% | RetPred=-6.37%
+TLKM.JK  | ProbTop=13.95% | RetPred=4.36%
+TMAS.JK  | ProbTop=2.03% | RetPred=-0.77%
+TOTL.JK  | ProbTop=14.15% | RetPred=3.41%
+TOWR.JK  | ProbTop=7.43% | RetPred=0.92%
+TSPC.JK  | ProbTop=8.06% | RetPred=6.32%
+ULTJ.JK  | ProbTop=11.52% | RetPred=0.67%
+UNTR.JK  | ProbTop=7.11% | RetPred=1.39%
+UNVR.JK  | ProbTop=19.85% | RetPred=3.49%
+VIVA.JK  | ProbTop=7.59% | RetPred=0.00%
+WIKA.JK  | ProbTop=23.37% | RetPred=3.55%
+WINS.JK  | ProbTop=8.49% | RetPred=3.72%
+WSBP.JK  | ProbTop=6.16% | RetPred=-4.17%
+WSKT.JK  | ProbTop=10.93% | RetPred=-1.94%
+WTON.JK  | ProbTop=6.87% | RetPred=0.00%
+
+📁 Hasil disimpan ke ai_screener_results.csv
